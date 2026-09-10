@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milner99
-- 👀 I’m interested in Web, Mobility and Raspberry Pi Python Projects
-- 🌱 I’m currently learning Python and furthing my Javascript skills
-- 💞️ I’m looking to collaborate on Javascript projects, Python and PHP
+- 👀 I’m interested in Web, Mobility and Cloud Run Projects in GCP
+- 🌱 I’m currently learning GoLang, Python and deepening my JavaScript skills
+- 💞️ I’m looking to collaborate on Javascript projects, GoLang, Python and PHP
 - 📫 How to reach me c j milner [at] gmail. com
 
 <!---
